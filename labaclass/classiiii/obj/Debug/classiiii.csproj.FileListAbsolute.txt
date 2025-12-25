@@ -1,0 +1,11 @@
+D:\code\oop-kyrs2\labaclass\classiiii\obj\Debug\classiiii.csproj.AssemblyReference.cache
+D:\code\oop-kyrs2\labaclass\classiiii\obj\Debug\classiiii.Form1.resources
+D:\code\oop-kyrs2\labaclass\classiiii\obj\Debug\classiiii.Properties.Resources.resources
+D:\code\oop-kyrs2\labaclass\classiiii\obj\Debug\classiiii.csproj.GenerateResource.cache
+D:\code\oop-kyrs2\labaclass\classiiii\obj\Debug\classiiii.csproj.CoreCompileInputs.cache
+D:\code\oop-kyrs2\labaclass\classiiii\bin\Debug\classiiii.exe.config
+D:\code\oop-kyrs2\labaclass\classiiii\bin\Debug\classiiii.exe
+D:\code\oop-kyrs2\labaclass\classiiii\bin\Debug\classiiii.pdb
+D:\code\oop-kyrs2\labaclass\classiiii\obj\Debug\classiiii.exe
+D:\code\oop-kyrs2\labaclass\classiiii\obj\Debug\classiiii.pdb
+D:\code\oop-kyrs2\labaclass\classiiii\obj\Debug\classiiii.exe.config
